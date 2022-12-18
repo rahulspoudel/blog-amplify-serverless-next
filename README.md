@@ -13,3 +13,6 @@
 - Nader Dabit - YouTube channel (https://www.youtube.com/@naderdabit)
   - Thank you Nader for inspiring and putting out quality contents for free!!!
 - Amazon Web Services - YouTube Channel (https://www.youtube.com/@amazonwebservices)
+  - https://www.youtube.com/@amazonwebservices/search?query=amplify
+
+.....
