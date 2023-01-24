@@ -17,6 +17,15 @@
       },
       "auth": {
         "blogamplifynexte5874c0c": {}
+      },
+      "function": {
+        "S3Trigger7d38ec8d": {
+          "deploymentBucketName": "amplify-blogamplifynext-dev-100806-deployment",
+          "s3Key": "amplify-builds/S3Trigger7d38ec8d-52466139564633684661-build.zip"
+        }
+      },
+      "storage": {
+        "projectimagesrp": {}
       }
     }
   }

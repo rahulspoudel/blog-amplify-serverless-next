@@ -1,0 +1,16 @@
+{
+  "resourceName": "projectimagesrp",
+  "policyUUID": "d833c50b",
+  "bucketName": "blogamplifynextbf20868ce4ee49bdb5bb4bf9d7afb71f",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger7d38ec8d",
+  "groupAccess": {}
+}
